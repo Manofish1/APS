@@ -80,3 +80,6 @@ Possíveis problemas
 💧 Bebedouro sem água
 🖥️ Computador da sala com problema
 Dica: Cada pessoa pode escolher um problema diferente e criar sua própria versão da tela, deixando os desenhos totalmente diferentes entre si.
+
+<img width="1200" height="1600" alt="resgistro_de_problema" src="https://github.com/user-attachments/assets/1c9ca785-85a3-49a4-a875-eb34c7296ac8" />
+
